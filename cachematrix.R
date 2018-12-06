@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## description of functions-
+## 
 
 # makeCacheMatrix creates -
 # 1. set the value of the matrix
